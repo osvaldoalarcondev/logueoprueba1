@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Academy Choucair" skipped="0" tests="1" time="14.47" timestamp="2022-07-27 12:40:40"><testcase name="Search for a automation course"><failure message="Expected net.serenitybdd.screenplay.QuestionSubject@594270e&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected net.serenitybdd.screenplay.QuestionSubject@594270e
-Expected: is &lt;true&gt;
-     but: was &lt;false&gt;</failure><system-err>Expected net.serenitybdd.screenplay.QuestionSubject@594270e
-Expected: is &lt;true&gt;
-     but: was &lt;false&gt;&#13;
-co.com.choucair.certification.academy.stepdefinitions.ChoucairAcademyStepDefinitions.heFindsTheCourseCalledResourcesRecursosAutomatizacionBancolombia(ChoucairAcademyStepDefinitions.java:28)&#13;
-✽.he finds the course called resources Recursos Automatizacion Bancolombia(src/test/resources/features/academyChoucair.feature:10)&#13;
-</system-err></testcase></testsuite>
